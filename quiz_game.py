@@ -15,7 +15,7 @@ if answer.lower()=="four":
 else:
     print("Incorrect!")
 
-answer=input("how many sides does a quadilateral have(type in words)? ")
+answer=input("how many sides does a pentagon have(type in words)? ")
 if answer.lower()=="five":
     print("Correct!")
 else:
