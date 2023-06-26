@@ -19,5 +19,5 @@ answer=input("how many sides does a quadilateral have(type in words)? ")
 if answer.lower()=="five":
     print("Correct!")
 else:
-    print("Wrong Answer")
+    print("Wrong Answer!")
 
