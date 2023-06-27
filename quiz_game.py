@@ -24,4 +24,5 @@ if answer.lower()=="five":
     score+=1
 else:
     print("Wrong Answer!")
+print("Final score is : ", score)
 
