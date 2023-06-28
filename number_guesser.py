@@ -22,7 +22,7 @@ while True:
         if number>randomNumber:
             print("Incorrect and your guess is greater than the number")
         else:
-            print("Incorrect and your guess is below the number")    
+            print("Incorrect and your guess is less than the number")    
         guess+=1
     
         
