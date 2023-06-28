@@ -19,7 +19,10 @@ while True:
         break
         
     else:
-        print("your guess is incorrect, try again")
+        if number>randomNumber:
+            print("Incorrect and your guess is greater than the number")
+        else:
+            print("Incorrect and your guess is below the number")    
         guess+=1
     
         
